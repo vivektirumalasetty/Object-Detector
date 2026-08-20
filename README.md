@@ -1,4 +1,4 @@
-Object Detection with NVIDIA SSD.
+#Object Detection with NVIDIA SSD.
 This notebook demonstrates how to perform object detection using the NVIDIA SSD model, leveraging the torch.hub library for easy access to pre-trained models. The process involves loading an image, preprocessing it, running it through the model, and then visualizing the detected objects with bounding boxes and confidence scores.
 
 Project Overview
